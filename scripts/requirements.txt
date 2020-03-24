@@ -1,0 +1,7 @@
+json
+lxml
+numpy
+opencv-python
+scipy
+tqdm
+zipfile
